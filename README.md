@@ -1,6 +1,6 @@
 # NovaTask
 
-NovaTask Elite 是一款基于 Qt 5.15.2 架构开发的高性能、现代化任务管理工具。它结合了 **艾森豪威尔矩阵 (Eisenhower Matrix)** 决策法则与 **星云毛玻璃 (Nebula Glassmorphism)** 视觉设计，旨在为用户提供极致的生产力管理体验。
+NovaTask Elite 是一款基于 Qt 5.15.2 架构开发的高性能、现代化任务管理工具。它结合了 **Eisenhower Matrix** 决策法则与 **Nebula Glassmorphism** 视觉设计，旨在为用户提供极致的生产力管理体验。
 
 ## 核心特性
 
